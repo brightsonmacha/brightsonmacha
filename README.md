@@ -11,8 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightsonmacha)](https://github.com/brightsonmacha)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=brightsonmacha)](https://github.com/brightsonmacha)
-
+-->
 
 <br>
 
