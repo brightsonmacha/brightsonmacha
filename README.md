@@ -3,8 +3,14 @@
 - I'm a Software Engineer from Dar es Salaam, Tanzania. I have experience building and scaling mobile, web applications and services, experties in systems intergrations in various verticals. 
 - I also enjoy building side projects in my free time.
 
+<br>
 
- 
+#### 🌐 Connect:
+
+[![Github](https://img.shields.io/badge/Github-black.svg?logo=github&logoColor=white)](https://github.com/brightsonmacha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tz.linkedin.com/in/brightsonmacha) [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/brightsonmacha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/brightsonmacha) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brymacha065@gmail.com) 
+
+
+<br><br>
 
 [![Brightson Macha's github stats](https://github-readme-stats.vercel.app/api?username=brightsonmacha&count_private=true&show_icons=true)](https://github.com/brightsonmacha)
 
@@ -15,11 +21,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=brightsonmacha)](https://github.com/brightsonmacha)
 -->
 
-<br>
-
-#### 🌐 Connect:
-
-[![Github](https://img.shields.io/badge/Github-black.svg?logo=github&logoColor=white)](https://github.com/brightsonmacha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://tz.linkedin.com/in/brightsonmacha) [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/brightsonmacha) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/brightsonmacha) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brymacha065@gmail.com) 
 
 
 
