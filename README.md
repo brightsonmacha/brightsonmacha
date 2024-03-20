@@ -14,7 +14,7 @@
 #### 📈 Stasts:
 
 [![Brightson Macha's github stats](https://github-readme-stats.vercel.app/api?username=brightsonmacha&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/brightsonmacha) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brightsonmacha&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brightsonmacha&hide_border=true&border_radius=5&mode=weekly)](https://github.com/brightsonmacha) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightsonmacha&include_all_commits=true&count_private=true)](https://github.com/brightsonmacha) <br>
 
 
