@@ -1,6 +1,6 @@
 ### Hi, I'm Brightson 👋
 
-- I'm a Software Engineer from Dar es Salaam, Tanzania. I have experience building and scaling mobile, web applications and services, experties in systems intergrations in various verticals. 
+- I'm a Software Engineer from Dar es Salaam, Tanzania. I have experience building and scaling mobile, and web applications and services, and expertise in systems integrations in various verticals. 
 - I also enjoy building side projects in my free time.
 
 <br>
@@ -13,7 +13,7 @@
 
 #### 📈 Stasts:
 
-[![Brightson Macha's github stats](https://github-readme-stats.vercel.app/api?username=brightsonmacha&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/brightsonmacha) <br>
+[![Brightson Macha's github stats](https://github-readme-stats.vercel.app/api?username=brightsonmacha&include_all_commits=true&show_icons=true&count_private=true)](https://github.com/brightsonmacha) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=brightsonmacha&hide_border=true&border_radius=5&mode=weekly)](https://github.com/brightsonmacha) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brightsonmacha&include_all_commits=true&count_private=true)](https://github.com/brightsonmacha) <br>
 
